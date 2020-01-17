@@ -12,11 +12,18 @@
   - [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Alan Zucconi](https://www.alanzucconi.com/) - Quick tutorials and breakdowns of short concepts
   - [Inverse Kinematics in 2D](https://www.alanzucconi.com/2018/05/02/ik-2d-1/)
+- [Amos](https://fasterthanli.me/)
+  - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping/)
 - [Amit Patel](https://www.redblobgames.com/) - Interactive explorations of common problem spaces in game development
   - [Hexagonal grid reference](https://www.redblobgames.com/grids/hexagons/)
   - [Tower Defense pathfinding](https://www.redblobgames.com/pathfinding/tower-defense/)
+- [Bob Nystrom](http://journal.stuffwithstuff.com/)
+  - [What the Hero Sees: Field-of-View](http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/)
 - [Bruce Dawson](https://randomascii.wordpress.com/) - Dives deep into profiling and explores fringe topics
   - [Tricks With the Floating-Point Format](https://randomascii.wordpress.com/2012/01/11/tricks-with-the-floating-point-format/)
+- [Erin Catto](https://box2d.org/) - Developer of Box2D. Posts and publications around physics and "low-level" concepts.
+  - [How to Transform a Plane](https://box2d.org/posts/2018/09/how-to-transform-a-plane/)
+  - [Ragdolls - GDC2012](https://box2d.org/files/ErinCatto_Ragdolls_GDC2012.pdf)
 - [Evan Todd](http://etodd.io/) - Breaks down common problems in games via the "Poor Man's _x_" Series
   - [The Poor Man's 3D Camera](http://etodd.io/2017/11/28/poor-mans-3d-camera/)
   - [The Poor Man's Character Controller](http://etodd.io/2015/04/03/poor-mans-character-controller/)
@@ -26,6 +33,16 @@
 - [Gabriel Gambetta](http://www.gabrielgambetta.com/) - Assorted articles on networking, rendering, and writing
   - [Computer Graphics from scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
   - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [Glenn Fiedler](https://gafferongames.com/) - Deep dives on networking, physics, and common development patterns.
+  - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
+  - [Integration Basics](https://gafferongames.com/post/integration_basics/)
+  - [Networked Physics in Virtual Reality](https://gafferongames.com/post/networked_physics_in_virtual_reality/)
+- [Jack Humbert](https://jackhumbert.com/)
+- [Nicky Case](https://ncase.me/) - Pioneer of interactive articles (a.k.a. explorable explanations)
+  - [Sight & Light - how to create a 2D visibility/shadow effects for your game](https://ncase.me/sight-and-light/)
+  - [To Build a Better Ballot](https://ncase.me/ballot/)
+- [Noel Berry](http://noelberry.ca/)
+  - [Procedural Generation - The Dungeon](http://noelberry.ca/#thedungeons)
 
 ## Company Blogs
 
