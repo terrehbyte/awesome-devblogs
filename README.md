@@ -27,6 +27,10 @@
 - [Evan Todd](http://etodd.io/) - Breaks down common problems in games via the "Poor Man's _x_" Series
   - [The Poor Man's 3D Camera](http://etodd.io/2017/11/28/poor-mans-3d-camera/)
   - [The Poor Man's Character Controller](http://etodd.io/2015/04/03/poor-mans-character-controller/)
+- [Eevee](https://eev.ee/) - Blog, dev blog, portfolio, and pretty much everything else that's relevant to their work or public life.
+  - Note: This website contains links (with warnings) to content not safe for viewing by minors.
+  - [Particle wipe generator](https://eev.ee/release/2019/04/20/particle-wipe-generator/)
+  - [Coaxing 2D platforming out of Unity](https://eev.ee/blog/2017/10/13/coaxing-2d-platforming-out-of-unity/)
 - [Fabien Sandlard](http://fabiensanglard.net/) - Analyzes and explores game engines and low-level functionality
   - [Quake 3 Source Code Review](http://fabiensanglard.net/quake3/index.php) 
   - [Fizzlefade](http://fabiensanglard.net/fizzlefade/index.php)
