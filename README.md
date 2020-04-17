@@ -42,6 +42,8 @@
   - [Integration Basics](https://gafferongames.com/post/integration_basics/)
   - [Networked Physics in Virtual Reality](https://gafferongames.com/post/networked_physics_in_virtual_reality/)
 - [Jack Humbert](https://jackhumbert.com/)
+- [Lucas Meijer](http://lucasmeijer.com/)
+  - [C++, C# and Unity](http://lucasmeijer.com/posts/cpp_unity/)
 - [Nicky Case](https://ncase.me/) - Pioneer of interactive articles (a.k.a. explorable explanations)
   - [Sight & Light - how to create a 2D visibility/shadow effects for your game](https://ncase.me/sight-and-light/)
   - [To Build a Better Ballot](https://ncase.me/ballot/)
