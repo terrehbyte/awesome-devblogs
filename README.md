@@ -59,6 +59,8 @@
 - [Riot Games Engineering](https://engineering.riotgames.com/)
   - [Profiling: Measurement and Analysis](https://engineering.riotgames.com/news/profiling-measurement-and-analysis)
   - [Random Acts of Optimization](https://engineering.riotgames.com/news/random-acts-optimization)
+- [Spotify Design](Updates and thoughts around changes to the Spotify UI + UX)
+  - [Bringing the Spotify Heart to life](https://spotify.design/article/bringing-the-spotify-heart-to-life)
 - [Unity Blog: Technology](https://blogs.unity3d.com/category/technology/page/3/)
   - [10000 Update() Calls](https://blogs.unity3d.com/2015/12/23/1k-update-calls/)
   - [An introduction to IL2CPP internals](https://blogs.unity3d.com/2015/05/06/an-introduction-to-ilcpp-internals/)
