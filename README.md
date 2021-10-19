@@ -44,6 +44,8 @@
 - [Jack Humbert](https://jackhumbert.com/)
 - [Lucas Meijer](http://lucasmeijer.com/)
   - [C++, C# and Unity](http://lucasmeijer.com/posts/cpp_unity/)
+- [Natalie Burke](http://natbird.com/index.html) - Technical Artist
+  - [Unity, Technical Art Lead](http://natbird.com/unity-work.html)
 - [Nicky Case](https://ncase.me/) - Pioneer of interactive articles (a.k.a. explorable explanations)
   - [Sight & Light - how to create a 2D visibility/shadow effects for your game](https://ncase.me/sight-and-light/)
   - [To Build a Better Ballot](https://ncase.me/ballot/)
