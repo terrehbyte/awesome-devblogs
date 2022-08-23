@@ -12,6 +12,8 @@
   - [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Alan Zucconi](https://www.alanzucconi.com/) - Quick tutorials and breakdowns of short concepts
   - [Inverse Kinematics in 2D](https://www.alanzucconi.com/2018/05/02/ik-2d-1/)
+- [Anton Palmqvist](https://antonpalmqvist.com/) - Simple and elegant portfolio website
+  - [Mirror's Edge: Catalyst](https://antonpalmqvist.com/mirrorsedge)
 - [Amos](https://fasterthanli.me/)
   - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping/)
 - [Amit Patel](https://www.redblobgames.com/) - Interactive explorations of common problem spaces in game development
