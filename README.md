@@ -43,6 +43,8 @@
   - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
   - [Integration Basics](https://gafferongames.com/post/integration_basics/)
   - [Networked Physics in Virtual Reality](https://gafferongames.com/post/networked_physics_in_virtual_reality/)
+- [Liz England](https://lizengland.com/blog/) - Simple personal site with a plethora of links to works, talks, resume, and resources
+  - [Game Design Library](https://lizengland.com/blog/game-design-library/) - Library of books on game design, w/o call-outs for her favorites
 - [Erik Nordeus](https://www.habrador.com/tutorials/) - Open source implementations and tutorials for games and simulation
   - [How to Tell if You Have Passed a Waypoint?](https://www.habrador.com/tutorials/math/2-passed-waypoint/) - part of ["Use math to solve problems in Unity with C#"](https://www.habrador.com/tutorials/math/)
 - [Jack Humbert](https://jackhumbert.com/)
