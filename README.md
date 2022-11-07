@@ -19,6 +19,8 @@
 - [Amit Patel](https://www.redblobgames.com/) - Interactive explorations of common problem spaces in game development
   - [Hexagonal grid reference](https://www.redblobgames.com/grids/hexagons/)
   - [Tower Defense pathfinding](https://www.redblobgames.com/pathfinding/tower-defense/)
+- [Ben Porter](https://bp.io/) - Portfolio site w/ project-centric homepage
+  - [Full Project List](https://bp.io/projects/) - a table of all notable past projects, small/personal and large/commercial
 - [Bob Nystrom](http://journal.stuffwithstuff.com/)
   - [What the Hero Sees: Field-of-View](http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/)
 - [Bruce Dawson](https://randomascii.wordpress.com/) - Dives deep into profiling and explores fringe topics
