@@ -71,6 +71,8 @@
 
 - [Campo Santo](http://blog.camposanto.com/)
   - [Matt Wilde on Visual Effects, Lighting, and Rendering](http://blog.camposanto.com/post/171934927979/hi-im-matt-wilde-an-old-man-from-the-north-of)
+- [Internal Pointers](https://www.internalpointers.com/) - misc. posts on tech, math, IT, etc.
+  - [Writing a custom iterator in modern C++](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
 - [Red Blue Games](https://blog.redbluegames.com/)
   - [Animating Top Down 2D Games in Unity](https://blog.redbluegames.com/animating-top-down-2d-games-in-unity-5e966b81790e)
 - [Riot Games Engineering](https://engineering.riotgames.com/)
