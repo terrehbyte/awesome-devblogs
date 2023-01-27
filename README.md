@@ -12,6 +12,9 @@
   - [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Alan Zucconi](https://www.alanzucconi.com/) - Quick tutorials and breakdowns of short concepts
   - [Inverse Kinematics in 2D](https://www.alanzucconi.com/2018/05/02/ik-2d-1/)
+- [Alex Forsythe](https://awforsythe.com) - Text-heavy portfolio site covering his personal, commercial, and other works
+  - [Blueprints vs. C++ - How They Fit Together and Why You Should Use Both](https://awforsythe.com/unreal/blueprints_vs_cpp/)
+  - [@AlexForsythe on YouTube](https://www.youtube.com/@AlexForsythe)
 - [Anton Palmqvist](https://antonpalmqvist.com/) - Simple and elegant portfolio website
   - [Mirror's Edge: Catalyst](https://antonpalmqvist.com/mirrorsedge)
 - [Amos](https://fasterthanli.me/)
