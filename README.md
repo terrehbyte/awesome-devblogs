@@ -69,6 +69,8 @@
   - [Procedural Generation - The Dungeon](http://noelberry.ca/#thedungeons)
 - [Rami Ismail](https://ltpf.ramiismail.com/) (Levelling The Playing Field)
   - [Getting Feedback](https://ltpf.ramiismail.com/feedback/)
+- [Tom Looman](https://www.tomlooman.com) - Collection of Unreal Engine-focused tutorials and resources
+  - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) and [Video](https://youtu.be/G51QWcitCII)
 
 ## Company Blogs
 
