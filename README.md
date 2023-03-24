@@ -10,37 +10,37 @@
 - [Adrian Courrages](http://www.adriancourreges.com/) - Performs in-depth graphics studies on recent games
   - [Metal Gear Solid V - Graphics Study](http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)
   - [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
-- [Alan Zucconi](https://www.alanzucconi.com/) - Quick tutorials and breakdowns of short concepts
+- [Alan Zucconi](https://www.alanzucconi.com/) - Quick tutorials and breakdowns of short concepts + portfolio
   - [Inverse Kinematics in 2D](https://www.alanzucconi.com/2018/05/02/ik-2d-1/)
 - [Alex Forsythe](https://awforsythe.com) - Text-heavy portfolio site covering his personal, commercial, and other works
   - [Blueprints vs. C++ - How They Fit Together and Why You Should Use Both](https://awforsythe.com/unreal/blueprints_vs_cpp/)
   - [@AlexForsythe on YouTube](https://www.youtube.com/@AlexForsythe)
 - [Anton Palmqvist](https://antonpalmqvist.com/) - Simple and elegant portfolio website
   - [Mirror's Edge: Catalyst](https://antonpalmqvist.com/mirrorsedge)
-- [Amos](https://fasterthanli.me/)
+- [Amos](https://fasterthanli.me/) - Known for Rust and deep-dives on various systems
   - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping/)
 - [Amit Patel](https://www.redblobgames.com/) - Interactive explorations of common problem spaces in game development
   - [Hexagonal grid reference](https://www.redblobgames.com/grids/hexagons/)
   - [Tower Defense pathfinding](https://www.redblobgames.com/pathfinding/tower-defense/)
 - [Ben Porter](https://bp.io/) - Portfolio site w/ project-centric homepage
   - [Full Project List](https://bp.io/projects/) - a table of all notable past projects, small/personal and large/commercial
-- [ben :seedling: ui](https://benui.ca/) - "As I learn new things in Unreal Engine, I like to write them down so I don't forget. :seedling:"
+- [ben :seedling: ui](https://benui.ca/) - "As I learn new things in Unreal Engine, I like to write them down so I don't forget. :seedling:" + portfolio
   - [Introduction to C++ UIs in Unreal](https://benui.ca/unreal/ui-cpp-basics/)
-- [Bob Nystrom](http://journal.stuffwithstuff.com/)
+- [Bob Nystrom](http://journal.stuffwithstuff.com/) - Language design posts w/ a spice of personal posts
   - [What the Hero Sees: Field-of-View](http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/)
-- [Bruce Dawson](https://randomascii.wordpress.com/) - Dives deep into profiling and explores fringe topics
+- [Bruce Dawson](https://randomascii.wordpress.com/) - Dives deep into profiling and various fringe topics
   - [Tricks With the Floating-Point Format](https://randomascii.wordpress.com/2012/01/11/tricks-with-the-floating-point-format/)
 - [Erin Catto](https://box2d.org/) - Developer of Box2D. Posts and publications around physics and "low-level" concepts.
   - [How to Transform a Plane](https://box2d.org/posts/2018/09/how-to-transform-a-plane/)
   - [Ragdolls - GDC2012](https://box2d.org/files/ErinCatto_Ragdolls_GDC2012.pdf)
-- [Evan Todd](http://etodd.io/) - Breaks down common problems in games via the "Poor Man's _x_" Series
+- [Evan Todd](http://etodd.io/) - Breaks down common problems in games via the "Poor Man's _x_" Series + portfolio
   - [The Poor Man's 3D Camera](http://etodd.io/2017/11/28/poor-mans-3d-camera/)
   - [The Poor Man's Character Controller](http://etodd.io/2015/04/03/poor-mans-character-controller/)
 - [Eevee](https://eev.ee/) - Blog, dev blog, portfolio, and pretty much everything else that's relevant to their work or public life.
   - Note: This website contains links (with warnings) to content not safe for viewing by minors.
   - [Particle wipe generator](https://eev.ee/release/2019/04/20/particle-wipe-generator/)
   - [Coaxing 2D platforming out of Unity](https://eev.ee/blog/2017/10/13/coaxing-2d-platforming-out-of-unity/)
-- [Fabien Sandlard](http://fabiensanglard.net/) - Analyzes and explores game engines and low-level functionality
+- [Fabien Sandlard](http://fabiensanglard.net/) - Analyzes and explores game engines and low-level functionality + portfolio
   - [Quake 3 Source Code Review](http://fabiensanglard.net/quake3/index.php) 
   - [Fizzlefade](http://fabiensanglard.net/fizzlefade/index.php)
 - [Gabriel Gambetta](http://www.gabrielgambetta.com/) - Assorted articles on networking, rendering, and writing
@@ -57,19 +57,19 @@
   - **Note:** This site is more of a hub/collection - each page links out to Patreon/YouTube for the actual content.
 - [Erik Nordeus](https://www.habrador.com/tutorials/) - Open source implementations and tutorials for games and simulation
   - [How to Tell if You Have Passed a Waypoint?](https://www.habrador.com/tutorials/math/2-passed-waypoint/) - part of ["Use math to solve problems in Unity with C#"](https://www.habrador.com/tutorials/math/)
-- [Jack Humbert](https://jackhumbert.com/)
-- [Lucas Meijer](http://lucasmeijer.com/)
+- [Jack Humbert](https://jackhumbert.com/) - One-pager landing page for socials and portfolio
+- [Lucas Meijer](http://lucasmeijer.com/) - One-pager landing page for socials and portfolio (again)
   - [C++, C# and Unity](http://lucasmeijer.com/posts/cpp_unity/)
-- [Natalie Burke](http://natbird.com/index.html) - Technical Artist
+- [Natalie Burke](http://natbird.com/index.html) - One-pager timeline of past works for portfolio
   - [Unity, Technical Art Lead](http://natbird.com/unity-work.html)
 - [Nicky Case](https://ncase.me/) - Pioneer of interactive articles (a.k.a. explorable explanations)
   - [Sight & Light - how to create a 2D visibility/shadow effects for your game](https://ncase.me/sight-and-light/)
   - [To Build a Better Ballot](https://ncase.me/ballot/)
-- [Noel Berry](http://noelberry.ca/)
+- [Noel Berry](http://noelberry.ca/) - Portfolio and mini-blog
   - [Procedural Generation - The Dungeon](http://noelberry.ca/#thedungeons)
-- [Rami Ismail](https://ltpf.ramiismail.com/) (Levelling The Playing Field)
+- [Rami Ismail](https://ltpf.ramiismail.com/) (Levelling The Playing Field) - Sharing lessons learned from developing games as a business, not just a hobby
   - [Getting Feedback](https://ltpf.ramiismail.com/feedback/)
-- [Tom Looman](https://www.tomlooman.com) - Collection of Unreal Engine-focused tutorials and resources
+- [Tom Looman](https://www.tomlooman.com) - Collection of original tutorials and resources for Unreal Engine
   - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) and [Video](https://youtu.be/G51QWcitCII)
 
 ## Company Blogs
