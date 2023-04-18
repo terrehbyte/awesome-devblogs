@@ -26,7 +26,7 @@ Portfolio websites focus on introducing a person and their past work.
   - [Mirror's Edge: Catalyst](https://antonpalmqvist.com/mirrorsedge)
 - [Ben Porter](https://bp.io/) - Portfolio site w/ project-centric homepage
   - [Full Project List](https://bp.io/projects/) - a table of all notable past projects, small/personal and large/commercial
-- [Freya's stuff (Freya Holmer)](https://acegikmo.com/) - Math Demiurge known "Shapes" and "Shader Forge". Highlights current/past/side projects and talks.
+- [Freya's stuff (Freya Holmer)](https://acegikmo.com/) - Math Demiurge known for "Shapes" and "Shader Forge". Highlights current/past/side projects and talks.
 - [Jenn Sandercock](https://jennsand.com/) - Personal portfolio site with cute and on-brand food theme
   - [About Jenn](https://jennsand.com/about/) - Mini-bio and interactive game bibliography with sorting, filtering, and detail views
 - [Lucas Meijer](http://lucasmeijer.com/) - One-pager landing page for socials and portfolio (again)
@@ -139,9 +139,9 @@ to do so.
 - [dev.to](https://dev.to/) - General software engineering platform with a very small game community
 - [Game Developer](https://www.gamedeveloper.com/blogs)
   - [1500 Archers on a 28.8](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond) by Mark Terrano and Paul Bettner
-- [GameDev.net](https://www.gamedev.net/blogs/) - 
+- [GameDev.net](https://www.gamedev.net/blogs/) - A game developer forum with a blog platform
 - [Ludum Dare](ldjam.com) - Homepage of the Ludum Dare game jam, which has an integrated blogging platform
-- [TIGForums](https://forums.tigsource.com/index.php?PHPSESSID=bg95kgih4qf945f5dfpv2oll97&board=27.0) - Blog posts as forum threads
+- [TIGForums](https://forums.tigsource.com/index.php?PHPSESSID=bg95kgih4qf945f5dfpv2oll97&board=27.0) - Blog posts as forum threads on a well-known game development forum
 
 There are other solutions that are less reliant on a platform like Netlify or
 GitHub Pages, but they will require additional setup on your part.
