@@ -43,6 +43,7 @@
 - [Fabien Sandlard](http://fabiensanglard.net/) - Analyzes and explores game engines and low-level functionality + portfolio
   - [Quake 3 Source Code Review](http://fabiensanglard.net/quake3/index.php) 
   - [Fizzlefade](http://fabiensanglard.net/fizzlefade/index.php)
+- [Freya's stuff (Freya Holmer)](https://acegikmo.com/) - Math Demiurge known "Shapes" and "Shader Forge". Portfolio site highlighting current/past/side projects and talks.
 - [Gabriel Gambetta](http://www.gabrielgambetta.com/) - Assorted articles on networking, rendering, and writing
   - [Computer Graphics from scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
   - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html)
@@ -50,6 +51,8 @@
   - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
   - [Integration Basics](https://gafferongames.com/post/integration_basics/)
   - [Networked Physics in Virtual Reality](https://gafferongames.com/post/networked_physics_in_virtual_reality/)
+- [Jenn Sandercock](https://jennsand.com/) - Personal portfolio site with cute and on-brand food theme
+  - [About Jenn](https://jennsand.com/about/) - Mini-bio and interactive game bibliography with sorting, filtering, and detail views
 - [Liz England](https://lizengland.com/blog/) - Simple personal site with a plethora of links to works, talks, resume, and resources
   - [Game Design Library](https://lizengland.com/blog/game-design-library/) - Library of books on game design, w/o call-outs for her favorites
 - [MinionsArt Tutorials](https://minionsart.github.io/tutorials/) - A large collection of shader and VFX tutorials, initially for BIRP, and now for URP
