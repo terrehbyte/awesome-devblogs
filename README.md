@@ -101,6 +101,8 @@ projects.
   - [Procedural Generation - The Dungeon](http://noelberry.ca/#thedungeons)
 - [Rami Ismail](https://ltpf.ramiismail.com/) (Levelling The Playing Field) - Sharing lessons learned from developing games as a business, not just a hobby
   - [Getting Feedback](https://ltpf.ramiismail.com/feedback/)
+- [Simon Trümpler](https://simont.de/) + [Blog](https://www.simonschreibt.de/) - Landing page with links out to other platforms for talks/portofolio/blog etc.
+  - [GTA V – Underestimated Glow](https://simonschreibt.de/gat/gta-v-underestimated-glow/) - Mini-VFX breakdown of how GTA V implements its glowing red traffic lights
 - [Tom Looman](https://www.tomlooman.com) - Collection of original tutorials and resources for Unreal Engine
   - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) and [Video](https://youtu.be/G51QWcitCII)
 
