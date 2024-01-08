@@ -105,6 +105,8 @@ projects.
   - [GTA V – Underestimated Glow](https://simonschreibt.de/gat/gta-v-underestimated-glow/) - Mini-VFX breakdown of how GTA V implements its glowing red traffic lights
 - [Tom Looman](https://www.tomlooman.com) - Collection of original tutorials and resources for Unreal Engine
   - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) and [Video](https://youtu.be/G51QWcitCII)
+- [Václav Vančura](https://vancura.design/) - Design + Development blog, recently focusing on their work at Microsoft
+  - [Visual Studio for Mac 17 Shell](https://vancura.design/work/visual-studio-for-mac-17-shell)
 
 ## Companies
 
