@@ -126,8 +126,9 @@ the industry.
 - [Unity Blog: Technology](https://blogs.unity3d.com/category/technology/page/3/)
   - [10000 Update() Calls](https://blogs.unity3d.com/2015/12/23/1k-update-calls/)
   - [An introduction to IL2CPP internals](https://blogs.unity3d.com/2015/05/06/an-introduction-to-ilcpp-internals/)
-- [Wolfire Games](https://blog.wolfire.com)
-  - [GDC13 Summary: Animation Bootcamp Part 5/6](https://blog.wolfire.com/2013/04/GDC13-Summary-Animation-Bootcamp-Part-5-6)
+- [Wolfire Games](http://blog.wolfire.com)
+  - ⚠️ WARN: HTTPS not available. HTTP only.
+  - [GDC13 Summary: Animation Bootcamp Part 5/6](http://blog.wolfire.com/2013/04/GDC13-Summary-Animation-Bootcamp-Part-5-6)
 
 ## One-Off Articles
 
