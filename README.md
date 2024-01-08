@@ -34,7 +34,6 @@ Portfolio websites focus on introducing a person and their past work.
 - [Jack Humbert](https://jackhumbert.com/) - One-pager landing page for socials and portfolio
 - [Natalie Burke](http://natbird.com/index.html) - One-pager timeline of past works for portfolio
   - [Unity, Lead Technical Artist](http://natbird.com/#unity)
-  - :warning: **Note:** HTTPS is not available.
 
 ## Portfolio + Blog
 
