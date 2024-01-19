@@ -35,7 +35,7 @@ Portfolio websites focus on introducing a person and their past work.
 - [Natalie Burke](http://natbird.com/index.html) - One-pager timeline of past works for portfolio
   - [Unity, Lead Technical Artist](http://natbird.com/#unity)
 
-## Portfolio + Blog
+## Portfolio and/or Blog
 
 Developer blogs **explore past (or present!) problems** encountered during
 development and/or provide **tutorial content** on solving specific needs. They
@@ -61,6 +61,8 @@ projects.
   - [Introduction to C++ UIs in Unreal](https://benui.ca/unreal/ui-cpp-basics/)
 - [Bob Nystrom](http://journal.stuffwithstuff.com/) - Language design posts w/ a spice of personal posts
   - [What the Hero Sees: Field-of-View](http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/)
+- [Bronson Zgeb](https://bronsonzgeb.com/) - Sharing Unity developer tips and tricks
+  - [Build a better collider importer with Asset Processors](https://bronsonzgeb.com/index.php/2021/11/27/better-collider-generation-with-asset-processors/)
 - [Bruce Dawson](https://randomascii.wordpress.com/) - Dives deep into profiling and various fringe topics
   - [Tricks With the Floating-Point Format](https://randomascii.wordpress.com/2012/01/11/tricks-with-the-floating-point-format/)
 - [Erin Catto](https://box2d.org/) - Developer of Box2D. Posts and publications around physics and "low-level" concepts.
