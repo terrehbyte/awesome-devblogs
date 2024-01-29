@@ -27,11 +27,13 @@ Portfolio websites focus on introducing a person and their past work.
 - [Ben Porter](https://bp.io/) - Portfolio site w/ project-centric homepage
   - [Full Project List](https://bp.io/projects/) - a table of all notable past projects, small/personal and large/commercial
 - [Freya's stuff (Freya Holmer)](https://acegikmo.com/) - Math Demiurge known for "Shapes" and "Shader Forge". Highlights current/past/side projects and talks.
+- [Jack Humbert](https://jackhumbert.com/) - One-pager landing page for socials and portfolio
 - [Jenn Sandercock](https://jennsand.com/) - Personal portfolio site with cute and on-brand food theme
   - [About Jenn](https://jennsand.com/about/) - Mini-bio and interactive game bibliography with sorting, filtering, and detail views
 - [Lucas Meijer](http://lucasmeijer.com/) - One-pager landing page for socials and portfolio (again)
   - [C++, C# and Unity](http://lucasmeijer.com/posts/cpp_unity/) (this site was previously a blog site, so some posts are still available)
-- [Jack Humbert](https://jackhumbert.com/) - One-pager landing page for socials and portfolio
+- [Lithish](https://lithish.com/) - Landing page with links to games and art portfolios + blog coming soon
+  - [Xan Farley's Portfolio](https://portfolio.lithish.com/design) - Two column format with cover art on the left and brief descriptors on the right
 - [Natalie Burke](http://natbird.com/index.html) - One-pager timeline of past works for portfolio
   - [Unity, Lead Technical Artist](http://natbird.com/#unity)
 
