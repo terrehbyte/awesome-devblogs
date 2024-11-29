@@ -119,6 +119,8 @@ the industry.
 
 - [Campo Santo](http://blog.camposanto.com/)
   - [Matt Wilde on Visual Effects, Lighting, and Rendering](http://blog.camposanto.com/post/171934927979/hi-im-matt-wilde-an-old-man-from-the-north-of)
+- [Chickensoft](https://chickensoft.games/)
+  - [Enjoyable Game Architecture](https://chickensoft.games/blog/game-architecture)
 - [Red Blue Games](https://blog.redbluegames.com/)
   - [Animating Top Down 2D Games in Unity](https://blog.redbluegames.com/animating-top-down-2d-games-in-unity-5e966b81790e)
 - [Riot Games Engineering](https://engineering.riotgames.com/)
