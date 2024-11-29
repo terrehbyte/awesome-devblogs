@@ -92,6 +92,9 @@ projects.
 - [Internal Pointers](https://www.internalpointers.com/) - misc. posts on tech, math, IT, etc.
   - [Writing a custom iterator in modern C++](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
   - **Note:** One of the few blogs without a portfolio.
+- [Joe Wintergreen Internet Zone](https://www.joewintergreen.com/)
+  - [Portfolio (separate site)](https://impromptugames.com/)
+  - [Half-life Alyx's Level Design Tools Are Super Great](https://www.joewintergreen.com/half-life-alyxs-level-design-tools-are-super-great/)
 - [Liz England](https://lizengland.com/blog/) - Simple personal site with a plethora of links to works, talks, resume, and resources
   - [Game Design Library](https://lizengland.com/blog/game-design-library/) - Library of books on game design, w/o call-outs for her favorites
 - [MinionsArt Tutorials](https://minionsart.github.io/tutorials/) - A large collection of shader and VFX tutorials, initially for BIRP, and now for URP
