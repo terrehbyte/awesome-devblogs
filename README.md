@@ -86,9 +86,12 @@ projects.
   - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html)
   - [Fizzlefade](http://fabiensanglard.net/fizzlefade/index.php)
 - [Glenn Fiedler](https://gafferongames.com/) - Deep dives on networking, physics, and common development patterns.
+  - No longer actively posting here; see Más Bandwidth
   - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
   - [Integration Basics](https://gafferongames.com/post/integration_basics/)
   - [Networked Physics in Virtual Reality](https://gafferongames.com/post/networked_physics_in_virtual_reality/)
+- Glenn Fiedler @ [Más Bandwidth](https://mas-bandwidth.com/)
+  - [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/)
 - [Internal Pointers](https://www.internalpointers.com/) - misc. posts on tech, math, IT, etc.
   - [Writing a custom iterator in modern C++](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
   - **Note:** One of the few blogs without a portfolio.
