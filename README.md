@@ -127,6 +127,8 @@ the industry.
   - [Matt Wilde on Visual Effects, Lighting, and Rendering](http://blog.camposanto.com/post/171934927979/hi-im-matt-wilde-an-old-man-from-the-north-of)
 - [Chickensoft](https://chickensoft.games/)
   - [Enjoyable Game Architecture](https://chickensoft.games/blog/game-architecture)
+- [Godot Engine - Blog - Progress Report](https://godotengine.org/blog/progress-report/)
+  - [UID changes coming to Godot 4.4](https://godotengine.org/article/uid-changes-coming-to-godot-4-4/)
 - [Red Blue Games](https://blog.redbluegames.com/)
   - [Animating Top Down 2D Games in Unity](https://blog.redbluegames.com/animating-top-down-2d-games-in-unity-5e966b81790e)
 - [Riot Games Engineering](https://engineering.riotgames.com/)
@@ -134,9 +136,8 @@ the industry.
   - [Random Acts of Optimization](https://engineering.riotgames.com/news/random-acts-optimization)
 - [Spotify Design](https://spotify.design) - Updates and thoughts around changes to the Spotify UI + UX
   - [Bringing the Spotify Heart to life](https://spotify.design/article/bringing-the-spotify-heart-to-life)
-- [Unity Blog: Technology](https://blogs.unity3d.com/category/technology/page/3/)
-  - [10000 Update() Calls](https://blogs.unity3d.com/2015/12/23/1k-update-calls/)
-  - [An introduction to IL2CPP internals](https://blogs.unity3d.com/2015/05/06/an-introduction-to-ilcpp-internals/)
+- [Unity Blog: Technology](https://blogs.unity3d.com/)
+  - [An introduction to IL2CPP internals](https://unity.com/blog/engine-platform/an-introduction-to-ilcpp-internals)
 - [Wolfire Games](http://blog.wolfire.com)
   - ⚠️ WARN: HTTPS not available. HTTP only.
   - [GDC13 Summary: Animation Bootcamp Part 5/6](http://blog.wolfire.com/2013/04/GDC13-Summary-Animation-Bootcamp-Part-5-6)
