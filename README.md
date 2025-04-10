@@ -100,6 +100,8 @@ projects.
   - [Half-life Alyx's Level Design Tools Are Super Great](https://www.joewintergreen.com/half-life-alyxs-level-design-tools-are-super-great/)
 - [Liz England](https://lizengland.com/blog/) - Simple personal site with a plethora of links to works, talks, resume, and resources
   - [Game Design Library](https://lizengland.com/blog/game-design-library/) - Library of books on game design, w/o call-outs for her favorites
+- [Michal "Pirat" Kubas](https://piratportfolio.com/) - Game artist showcasing environmental and weapon assets + blog.
+  - [Gun modeling for FPP games](https://piratportfolio.com/fpp_eng/)
 - [MinionsArt Tutorials](https://minionsart.github.io/tutorials/) - A large collection of shader and VFX tutorials, initially for BIRP, and now for URP
   - [World Position Radius Effects (in Shader Graph)](https://www.patreon.com/posts/26438849)
   - **Note:** This site is more of a hub/collection - each page links out to Patreon/YouTube for the actual content.
