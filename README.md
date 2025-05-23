@@ -85,6 +85,11 @@ projects.
   - [Computer Graphics from scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
   - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html)
   - [Fizzlefade](http://fabiensanglard.net/fizzlefade/index.php)
+- [Geekist](https://geekist.co) – A developer blog exploring creative problem solving, automation workflows, and modern software architecture  
+  - [Nginx by Example](https://geekist.co/nginx-by-example) – A developer-focused book on Nginx   
+  - [Localhost WP Blogging on iPhone](https://geekist.co/you-can-blog-from-your-local-wordpress-site-on-iphone-heres-how/) – Offline-to-live publishing workflow  
+  - [The Invisible CDN](https://geekist.co/the-invisible-cdn-we-built-in-2012-for-dynamic-avatars/) – A dynamic avatar delivery system
+  - **Note:** One of the few blogs without a portfolio.
 - [Glenn Fiedler](https://gafferongames.com/) - Deep dives on networking, physics, and common development patterns.
   - No longer actively posting here; see Más Bandwidth
   - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
