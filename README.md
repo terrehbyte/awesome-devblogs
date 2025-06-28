@@ -95,6 +95,7 @@ projects.
 - [Internal Pointers](https://www.internalpointers.com/) - misc. posts on tech, math, IT, etc.
   - [Writing a custom iterator in modern C++](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
   - **Note:** One of the few blogs without a portfolio.
+- [Jackson Dunstan](https://www.jacksondunstan.com/)
 - [Joe Wintergreen Internet Zone](https://www.joewintergreen.com/)
   - [Portfolio (separate site)](https://impromptugames.com/)
   - [Half-life Alyx's Level Design Tools Are Super Great](https://www.joewintergreen.com/half-life-alyxs-level-design-tools-are-super-great/)
